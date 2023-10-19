@@ -1,4 +1,4 @@
-Certainly! Here's a sample README file for your project that helps users understand its purpose and how to use it:
+
 
 ```markdown
 # YouTube Data Scraper
@@ -26,6 +26,7 @@ Before using the YouTube Data Scraper, ensure you have the following prerequisit
 - Flask
 - Beautiful Soup 4
 - ChromeDriver (for Selenium)
+- for details check the requirements.txt file 
 
 You can install the Python dependencies using `pip`:
 
@@ -79,4 +80,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ```
 
-This README file provides an introduction to your YouTube Data Scraper project, explains its features, lists the prerequisites, explains how to get started, provides usage instructions, encourages contributions, and includes licensing information. You can customize it further to suit your project's specific needs.
+This README file introduces my YouTube Data Scraper project, explains its features, lists the prerequisites, explains how to get started, provides usage instructions, encourages contributions, and includes licensing information. You can customize it further to suit your project's specific needs.
